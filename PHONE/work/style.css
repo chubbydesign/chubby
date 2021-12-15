@@ -10,8 +10,8 @@ body {
 */
 
 html, body {
-  margin: 5px;
-  padding: 0;
+  margin-left: -15px;
+  margin-right: -15px;
 /*  overflow: hidden*/
 }
 p {
